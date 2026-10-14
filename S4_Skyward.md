@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /
+---
+
 # S4乱風まとめ
 
 ## 目次

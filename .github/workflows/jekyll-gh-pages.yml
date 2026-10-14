@@ -20,6 +20,9 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
+  
+include:
+  - S4_Skyward.md
 
 jobs:
   # Build job
